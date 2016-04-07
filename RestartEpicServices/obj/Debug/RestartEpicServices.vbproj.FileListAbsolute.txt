@@ -1,0 +1,11 @@
+C:\Users\Tyler\Source\Repos\WorkProjects\RestartEpicServices\RestartEpicServices\bin\Debug\RestartEpicServices.exe.config
+C:\Users\Tyler\Source\Repos\WorkProjects\RestartEpicServices\RestartEpicServices\bin\Debug\RestartEpicServices.exe
+C:\Users\Tyler\Source\Repos\WorkProjects\RestartEpicServices\RestartEpicServices\bin\Debug\RestartEpicServices.pdb
+C:\Users\Tyler\Source\Repos\WorkProjects\RestartEpicServices\RestartEpicServices\bin\Debug\RestartEpicServices.xml
+C:\Users\Tyler\Source\Repos\WorkProjects\RestartEpicServices\RestartEpicServices\obj\Debug\RestartEpicServices.vbprojResolveAssemblyReference.cache
+C:\Users\Tyler\Source\Repos\WorkProjects\RestartEpicServices\RestartEpicServices\obj\Debug\RestartEpicServices.frmRestartEpicServices.resources
+C:\Users\Tyler\Source\Repos\WorkProjects\RestartEpicServices\RestartEpicServices\obj\Debug\RestartEpicServices.Resources.resources
+C:\Users\Tyler\Source\Repos\WorkProjects\RestartEpicServices\RestartEpicServices\obj\Debug\RestartEpicServices.vbproj.GenerateResource.Cache
+C:\Users\Tyler\Source\Repos\WorkProjects\RestartEpicServices\RestartEpicServices\obj\Debug\RestartEpicServices.exe
+C:\Users\Tyler\Source\Repos\WorkProjects\RestartEpicServices\RestartEpicServices\obj\Debug\RestartEpicServices.xml
+C:\Users\Tyler\Source\Repos\WorkProjects\RestartEpicServices\RestartEpicServices\obj\Debug\RestartEpicServices.pdb
